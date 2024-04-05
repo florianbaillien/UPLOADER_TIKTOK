@@ -1,4 +1,4 @@
-# UPLOADER_TIKTOK
+**Terms of Service**
 
 These Terms of Service ("Terms") govern your use of our video platform and any related services offered by TikTok ("we", "us", or "our"). By accessing or using our platform, you agree to be bound by these Terms.
 
