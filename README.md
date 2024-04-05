@@ -82,7 +82,7 @@ We retain your personal information for as long as necessary to fulfill the purp
 
 Our platform is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13 without parental consent.
 
-#7. Changes to this Policy**
+## 7. Changes to this Policy
 
 We reserve the right to update or change this Policy at any time. Any changes will be effective immediately upon posting the revised Policy on our platform.
 
