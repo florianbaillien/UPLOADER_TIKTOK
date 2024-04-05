@@ -1,14 +1,14 @@
-##Terms of Service**
+## Terms of Service**
 
 These Terms of Service ("Terms") govern your use of our video platform and any related services offered by TikTok ("we", "us", or "our"). By accessing or using our platform, you agree to be bound by these Terms.
 
-#1. Accounts**
+# 1. Accounts**
 
 You must be at least 13 years of age to use this platform. By using this platform, you represent and warrant that you are at least 13 years of age.
 
 You are responsible for maintaining the confidentiality of your account and password, including but not limited to the restriction of access to your computer and/or account. You agree to accept responsibility for any and all activities or actions that occur under your account and/or password, whether your password is with our platform or a third-party service. You must notify us immediately upon becoming aware of any breach of security or unauthorized use of your account.
 
-#2. Content**
+# 2. Content**
 
 Our platform allows you to post, link, store, share, and otherwise make available certain information, text, graphics, videos, or other material ("Content"). You are responsible for the Content that you post on or through our platform, including its legality, reliability, and appropriateness.
 
